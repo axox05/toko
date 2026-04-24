@@ -1,8 +1,0 @@
-kvsqlite
-requests
-schedule
-aiosqlite
-telethon
-opentele
-pyrogram
-telebot
