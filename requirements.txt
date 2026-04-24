@@ -9,7 +9,6 @@ pathlib
 typing
 aiosqlite
 telethon
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.31.zip --force-reinstall
 pyqt5==5.15.4
 opentele
 secrets
