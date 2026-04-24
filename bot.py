@@ -54,12 +54,12 @@ if not db.exists("accounts"):
     db.set("accounts", [])
 App = app()
 
-Dzz = 00000
+Dzz = 6747695334
 
 api_id = '22256614'
 api_hash = '4f9f53e287de541cf0ed81e12a68fa3b'
 
-TOKEN = "000000" 
+TOKEN = "8726080630:AAHLLglurOBNFWfGXngTMamI_NWho3bOgN8" 
 
 back = rep(row_width=2, resize_keyboard=True)
 
