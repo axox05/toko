@@ -1,5 +1,0 @@
-pykeyboard
-python-dotenv
-redis
-TgCrypto
-pyrofork==2.4.0rc1
