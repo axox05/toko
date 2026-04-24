@@ -1,14 +1,6 @@
 kvsqlite
 requests
 schedule
-user_agent
-base64
-ipaddress
-struct
-pathlib
-typing
 aiosqlite
 telethon
-pyqt5==5.15.4
 opentele
-secrets
