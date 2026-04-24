@@ -59,7 +59,7 @@ Dzz = 6747695334
 api_id = '22256614'
 api_hash = '4f9f53e287de541cf0ed81e12a68fa3b'
 
-TOKEN = "8726080630:AAHLLglurOBNFWfGXngTMamI_NWho3bOgN8" 
+TOKEN = "8249228301:AAHbVunabLpatjbsQuYNglo7ocEcXFLr0gI" 
 
 back = rep(row_width=2, resize_keyboard=True)
 
