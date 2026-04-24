@@ -4,3 +4,4 @@ schedule
 aiosqlite
 telethon
 opentele
+pyrogram
